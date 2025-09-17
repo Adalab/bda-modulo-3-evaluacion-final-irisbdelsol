@@ -1,4 +1,5 @@
-🧠 Evaluación Final · Módulo 3 · Transformando Datos ·
+🧠 Evaluación Final · Módulo 3 · Transformando Datos · Adalab
+
 Este repositorio contiene el proyecto de evaluación final del Módulo 3: Transformando Datos del bootcamp de Adalab. En este módulo hemos aprendido a trabajar con herramientas clave de análisis de datos, limpieza, transformación y visualización, así como fundamentos de estadística descriptiva e inferencial.
 
 🎯 Contenidos del módulo
