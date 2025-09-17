@@ -33,17 +33,16 @@ Visualización y análisis estadístico descriptivo.
 Aplicación de estadística inferencial para responder a preguntas clave.
 Obtención de insights relevantes y comunicación de los hallazgos de forma clara y visual.
 
-:female-technologist: Autora
+:technologist: Autora
 Iris Barredo del Sol
 
 🔧 Tecnologías usadas
 Python
 Numpy
 Pandas
-
-
-:memo: Estado del ejercicio
-Parte obligatoria finalizada 
 Matplotlib & Seaborn
 Scipy / Statsmodels
 Jupyter Notebook
+
+:memo: Estado del ejercicio
+Parte obligatoria finalizada 
