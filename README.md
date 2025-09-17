@@ -42,10 +42,15 @@ Iris Barredo del Sol
 🔧 Tecnologías usadas
 
 Python
+
 Numpy
+
 Pandas
+
 Matplotlib & Seaborn
+
 Scipy / Statsmodels
+
 Jupyter Notebook
 
 :memo: Estado del ejercicio
