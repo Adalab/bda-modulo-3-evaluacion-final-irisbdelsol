@@ -3,6 +3,7 @@
 Este repositorio contiene el proyecto de evaluación final del Módulo 3: Transformando Datos del bootcamp de Adalab. En este módulo hemos aprendido a trabajar con herramientas clave de análisis de datos, limpieza, transformación y visualización, así como fundamentos de estadística descriptiva e inferencial.
 
 🎯 Contenidos del módulo
+
 El proyecto abarca los siguientes bloques temáticos:
 
 - Numpy: creación y manipulación de arrays, operaciones vectorizadas.
@@ -25,6 +26,7 @@ El proyecto abarca los siguientes bloques temáticos:
  Pruebas de hipótesis (comparación de medias, test de proporciones).
 
 🎯 Objetivos
+
 El objetivo de esta evaluación es analizar un conjunto de datos reales, realizando un pipeline completo de análisis que incluya:
 
 Carga y exploración de los datos.
@@ -34,9 +36,11 @@ Aplicación de estadística inferencial para responder a preguntas clave.
 Obtención de insights relevantes y comunicación de los hallazgos de forma clara y visual.
 
 :technologist: Autora
+
 Iris Barredo del Sol
 
 🔧 Tecnologías usadas
+
 Python
 Numpy
 Pandas
@@ -45,4 +49,5 @@ Scipy / Statsmodels
 Jupyter Notebook
 
 :memo: Estado del ejercicio
+
 Parte obligatoria finalizada 
